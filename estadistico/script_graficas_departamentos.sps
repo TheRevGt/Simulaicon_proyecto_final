@@ -1,0 +1,10 @@
+﻿* Encoding: UTF-8.
+
+FREQUENCIES VARIABLES=  departament
+  /BARCHART FREQ    
+  /ORDER=ANALYSIS.
+
+FREQUENCIES VARIABLES=departament
+  /PIECHART PERCENT        
+  /ORDER=ANALYSIS    
+
