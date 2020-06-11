@@ -1,0 +1,10 @@
+﻿* Encoding: UTF-8.
+
+FREQUENCIES VARIABLES= recommend
+  /BARCHART FREQ    
+  /ORDER=ANALYSIS.
+
+FREQUENCIES VARIABLES=recommend
+  /PIECHART FREQ    
+  /ORDER=ANALYSIS    
+

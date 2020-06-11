@@ -1,0 +1,10 @@
+﻿* Encoding: UTF-8.
+
+FREQUENCIES VARIABLES=   atraction
+  /BARCHART FREQ    
+  /ORDER=ANALYSIS.
+
+FREQUENCIES VARIABLES= atraction
+  /PIECHART PERCENT        
+  /ORDER=ANALYSIS    
+
