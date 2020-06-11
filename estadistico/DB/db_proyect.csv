@@ -1,0 +1,201 @@
+﻿id,atraction,opinio,recommend,departament,salary,year,gender,RANGOEDAD,RANGOEDAD2,MAYOREDAD,RANGOSUELDO,Zatraction
+1,Resbaladero,Excelente,SI,San Marcos,47885.86,40,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-1.22864270003469
+2,Slpash caribe,Regular,SI,Zacapa,33731.59,6,Hombre,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,1.69395026405408
+3,Patines,Bueno,SI,Santa Rosa,62955.29,34,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+4,Pacuare,Excelente,No,El Progreso,25733.63,20,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,1.38630889941316
+5,Resbaladero,Regular,SI,Sololá,30459.31,44,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-1.22864270003469
+6,Rueditas,Malo,SI,Retalhuleu,30224.89,21,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,-.613359970752841
+7,Montaña rusa,Regular,SI,Quiché,53061.77,32,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.463384805490391
+8,Gotcha,Regular,SI,Guatemala,69249.8,43,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-.45953928843238
+9,Disco,Excelente,No,Jalapa,13701.55,34,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.924846852451776
+10,Tren,Excelente,No,San Marcos,69458.91,7,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,.309564123169929
+11,Convoy,Excelente,SI,Izabal,5253.93,24,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,de 5000 a 7499,.155743440849467
+12,Pelotas,Bueno,No,Guatemala,8188.51,43,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,de 7500 a 9999,-1.53628406467561
+13,Torbellino,Excelente,No,Jalapa,61606.56,20,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,1.54012958173362
+14,Bumeran,Malo,SI,El Progreso,1598.48,21,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,menor a 2500,1.2324882170927
+15,La torre,Bueno,SI,Sololá,51642.13,16,Hombre,16 a 20 años,11 a 20 años,Menor de Edad,mas de 10000,.771026170131314
+16,Sky Master,Regular,No,Totonicapán,54185.74,11,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,1.07866753477224
+17,Torbellino,Excelente,No,Izabal,17287.57,12,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,1.54012958173362
+18,Sky Master,Malo,SI,Quetzaltenango,59627.68,39,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,1.07866753477224
+19,Sky Master,Regular,SI,Chimaltenango,59481.98,27,Hombre,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,1.07866753477224
+20,Disco,Malo,SI,El Progreso,61487,2,Mujer,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,.924846852451776
+21,Patines,Regular,SI,Retalhuleu,36415.81,34,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+22,Choconitos,Regular,SI,Chiquimula,62061.67,18,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,-.151897923791456
+23,Tornado,Excelente,No,Jalapa,53909.72,18,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,.617205487810852
+24,Slpash caribe,Malo,No,Sacatepéquez,2851.57,6,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,de 2500 a 4999,1.69395026405408
+25,Tren,Malo,No,Suchitepéquez,47373.89,15,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,.309564123169929
+26,Punteria,Bueno,No,Huehuetenango,73475.27,3,Hombre,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,-1.07482201771423
+27,Piscina,Malo,No,Jutiapa,9618.09,18,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,de 7500 a 9999,-1.69010474699607
+28,Patines,Excelente,SI,Sololá,5615.69,26,Hombre,26 a 30 años,21 a 30 años,Mayor de Edad,de 5000 a 7499,-.767180653073303
+29,Tornado,Malo,SI,Suchitepéquez,51621.46,42,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.617205487810852
+30,Tricitas,Malo,No,El Progreso,33635.4,38,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-.305718606111918
+31,Rueda de Chicago,Regular,No,Suchitepéquez,63984.8,8,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,.00192275852900566
+32,Rueda de Chicago,Excelente,SI,Escuintla,39961.16,40,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+33,Rueda de Chicago,Malo,No,Santa Rosa,46194.92,34,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+34,La torre,Excelente,No,Santa Rosa,14516.51,42,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.771026170131314
+35,Pacuare,Regular,SI,Izabal,32330.94,18,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,1.38630889941316
+36,Rueda de Chicago,Malo,SI,Zacapa,23841.49,43,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+37,Slpash caribe,Excelente,No,Escuintla,21463.31,21,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,1.69395026405408
+38,Tricitas,Malo,SI,Suchitepéquez,5189.5,23,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,de 5000 a 7499,-.305718606111918
+39,La torre,Regular,SI,Chiquimula,12716.63,13,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,.771026170131314
+40,Tren,Malo,SI,Suchitepéquez,29031.13,43,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.309564123169929
+41,Montaña rusa,Regular,SI,San Marcos,20951.9,32,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.463384805490391
+42,Pacuare,Bueno,No,Sacatepéquez,60660.48,40,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,1.38630889941316
+43,Rueditas,Regular,SI,San Marcos,10643.92,6,Hombre,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,-.613359970752841
+44,Patines,Bueno,No,Petén,6023.53,12,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,de 5000 a 7499,-.767180653073303
+45,Disco,Regular,No,Retalhuleu,29651.74,19,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,.924846852451776
+46,Montaña rusa,Excelente,No,Jutiapa,21800.36,38,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.463384805490391
+47,Convoy,Bueno,No,Chiquimula,28727.32,39,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.155743440849467
+48,Torbellino,Bueno,SI,Guatemala,41509.37,7,Hombre,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,1.54012958173362
+49,La torre,Regular,No,Huehuetenango,15124.74,33,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.771026170131314
+50,La torre,Excelente,No,Huehuetenango,37947.29,20,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,.771026170131314
+51,Punteria,Bueno,SI,Izabal,29993.42,45,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-1.07482201771423
+52,Bumeran,Malo,SI,Sacatepéquez,61400.05,21,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,1.2324882170927
+53,Motos,Regular,SI,Jutiapa,73119.87,28,Hombre,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,-.921001335393765
+54,Tornado,Excelente,SI,Baja Verapaz,72518.75,28,Mujer,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,.617205487810852
+55,Rueda de Chicago,Excelente,No,Sacatepéquez,33861.6,31,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+56,Patines,Malo,No,Quetzaltenango,46664.83,13,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,-.767180653073303
+57,Convoy,Excelente,SI,Jalapa,28674.88,35,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.155743440849467
+58,Patines,Malo,No,Quiché,61912.03,20,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,-.767180653073303
+59,Sky Master,Regular,SI,Jutiapa,29125.97,39,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,1.07866753477224
+60,Resbaladero,Bueno,No,Sololá,68501.45,44,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-1.22864270003469
+61,Convoy,Excelente,No,Jutiapa,10616.21,35,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.155743440849467
+62,Rueda de Chicago,Regular,SI,Guatemala,53614.73,30,Hombre,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,.00192275852900566
+63,Rueditas,Malo,SI,Totonicapán,19226.02,10,Hombre,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,-.613359970752841
+64,Pacuare,Excelente,SI,Guatemala,50943.86,16,Hombre,16 a 20 años,11 a 20 años,Menor de Edad,mas de 10000,1.38630889941316
+65,Rueda de Chicago,Bueno,No,Jutiapa,10467.43,36,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+66,Patines,Malo,No,Alta Verapaz,13958,32,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+67,Slpash caribe,Malo,SI,Alta Verapaz,18307.47,4,Mujer,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,1.69395026405408
+68,Patines,Excelente,No,Retalhuleu,67266.8,45,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+69,Slpash caribe,Excelente,No,Baja Verapaz,52496.66,42,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,1.69395026405408
+70,Tornado,Regular,No,Sacatepéquez,54441.72,42,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.617205487810852
+71,Pelotas,Excelente,SI,Chiquimula,50261.16,45,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-1.53628406467561
+72,Punteria,Regular,SI,El Progreso,59750.59,29,Mujer,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.07482201771423
+73,Torbellino,Regular,SI,Jutiapa,63548.29,38,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,1.54012958173362
+74,Patines,Regular,No,San Marcos,51691.34,32,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+75,Choconitos,Excelente,No,Sololá,21080.68,40,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-.151897923791456
+76,Convoy,Bueno,No,Izabal,44453.74,33,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.155743440849467
+77,La torre,Regular,No,Izabal,73198.89,38,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.771026170131314
+78,Pelotas,Regular,SI,Chiquimula,40024.69,31,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-1.53628406467561
+79,Patines,Bueno,SI,San Marcos,45198.92,18,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,-.767180653073303
+80,Resbaladero,Regular,SI,Petén,48853.31,9,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,-1.22864270003469
+81,Rueditas,Excelente,No,El Progreso,70404.14,3,Mujer,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,-.613359970752841
+82,Convoy,Bueno,SI,Zacapa,13651.58,42,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.155743440849467
+83,Convoy,Regular,No,Baja Verapaz,7864.82,5,Hombre,1 a 5 años,1 a 10 años,Menor de Edad,de 7500 a 9999,.155743440849467
+84,Motos,Malo,No,Suchitepéquez,50776.06,44,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-.921001335393765
+85,La torre,Excelente,No,Zacapa,3822.32,44,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,de 2500 a 4999,.771026170131314
+86,Tricitas,Excelente,SI,Jutiapa,50445.04,38,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-.305718606111918
+87,Resbaladero,Bueno,SI,Petén,32801.69,41,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-1.22864270003469
+88,Tren,Bueno,No,Zacapa,22935.91,40,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.309564123169929
+89,Torbellino,Bueno,SI,Izabal,63889.6,12,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,1.54012958173362
+90,Piscina,Regular,No,Baja Verapaz,61403.45,14,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,-1.69010474699607
+91,Torbellino,Regular,SI,Jutiapa,24086.09,23,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,1.54012958173362
+92,Tren,Excelente,SI,Suchitepéquez,54911.45,2,Hombre,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,.309564123169929
+93,Pelotas,Bueno,No,Alta Verapaz,15714.01,22,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.53628406467561
+94,Bumeran,Excelente,SI,Petén,73307.74,24,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,1.2324882170927
+95,Lanchas,Bueno,SI,Chimaltenango,45411.91,25,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.38246338235515
+96,Resbaladero,Bueno,No,Guatemala,2561.81,22,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,de 2500 a 4999,-1.22864270003469
+97,Resbaladero,Malo,SI,Santa Rosa,32699.12,13,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,-1.22864270003469
+98,Resbaladero,Bueno,No,Izabal,4302.09,22,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,de 2500 a 4999,-1.22864270003469
+99,Sky Master,Excelente,No,Sololá,61633.46,5,Mujer,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,1.07866753477224
+100,Resbaladero,Malo,No,Quetzaltenango,62541.85,13,Mujer,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,-1.22864270003469
+101,Disco,Excelente,SI,San Marcos,23763.4,39,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.924846852451776
+102,Slpash caribe,Bueno,SI,Zacapa,32919.26,44,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,1.69395026405408
+103,Bumeran,Regular,SI,Santa Rosa,9975.26,35,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,de 7500 a 9999,1.2324882170927
+104,Lanchas,Malo,No,El Progreso,11736.36,30,Hombre,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.38246338235515
+105,La torre,Excelente,No,Sololá,1102.54,10,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,menor a 2500,.771026170131314
+106,Rueditas,Malo,SI,Retalhuleu,27695.43,16,Hombre,16 a 20 años,11 a 20 años,Menor de Edad,mas de 10000,-.613359970752841
+107,Patines,Regular,No,Quiché,1357.32,36,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,menor a 2500,-.767180653073303
+108,Tricitas,Excelente,No,Guatemala,44784.33,32,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.305718606111918
+109,Torbellino,Malo,No,Jalapa,24496.15,4,Mujer,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,1.54012958173362
+110,Piscina,Excelente,No,San Marcos,48029.04,45,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-1.69010474699607
+111,Rueda de Chicago,Bueno,No,Izabal,5588.75,42,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,de 5000 a 7499,.00192275852900566
+112,Resbaladero,Excelente,SI,Guatemala,2898.01,42,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,de 2500 a 4999,-1.22864270003469
+113,Rueda de Chicago,Excelente,SI,Jalapa,38087.25,45,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+114,Lanchas,Malo,SI,El Progreso,44982.61,29,Mujer,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.38246338235515
+115,Resbaladero,Malo,SI,Sololá,21394.31,38,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-1.22864270003469
+116,Rueditas,Malo,SI,Totonicapán,14279.36,32,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.613359970752841
+117,Gotcha,Regular,SI,Izabal,17854.83,40,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-.45953928843238
+118,Rueditas,Regular,No,Quetzaltenango,33461.76,33,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.613359970752841
+119,Tren,Bueno,SI,Chimaltenango,7230.18,38,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,de 5000 a 7499,.309564123169929
+120,Rueditas,Bueno,No,El Progreso,1002.07,31,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,menor a 2500,-.613359970752841
+121,Patines,Malo,SI,Retalhuleu,28325.54,34,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+122,Patines,Excelente,SI,Chiquimula,15911.04,20,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,-.767180653073303
+123,Torbellino,Bueno,SI,Jalapa,39511.13,44,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,1.54012958173362
+124,Choconitos,Malo,No,Sacatepéquez,36463.28,21,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,-.151897923791456
+125,Rueditas,Regular,SI,Suchitepéquez,73793.37,32,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.613359970752841
+126,Choconitos,Excelente,No,Huehuetenango,31547.01,43,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,mas de 10000,-.151897923791456
+127,Choconitos,Regular,No,Jutiapa,23353.67,34,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.151897923791456
+128,Punteria,Malo,No,Sololá,12828.72,7,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,-1.07482201771423
+129,Lanchas,Regular,SI,Suchitepéquez,28805.08,24,Hombre,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.38246338235515
+130,Tren,Regular,SI,El Progreso,9311.91,43,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,de 7500 a 9999,.309564123169929
+131,Sky Master,Malo,SI,Suchitepéquez,14671.71,20,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,1.07866753477224
+132,Motos,Bueno,SI,Escuintla,34092.62,21,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,mas de 10000,-.921001335393765
+133,Patines,Malo,SI,Santa Rosa,68919.82,16,Hombre,16 a 20 años,11 a 20 años,Menor de Edad,mas de 10000,-.767180653073303
+134,Choconitos,Regular,No,Santa Rosa,64277.83,11,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,-.151897923791456
+135,La torre,Regular,SI,Izabal,61566.22,12,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,.771026170131314
+136,Tricitas,Excelente,No,Zacapa,46853.53,39,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-.305718606111918
+137,Punteria,Excelente,No,Escuintla,69454.31,27,Mujer,26 a 30 años,21 a 30 años,Mayor de Edad,mas de 10000,-1.07482201771423
+138,Disco,Regular,SI,Suchitepéquez,68455.44,2,Mujer,1 a 5 años,1 a 10 años,Menor de Edad,mas de 10000,.924846852451776
+139,Pacuare,Excelente,SI,Chiquimula,65321.4,40,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,1.38630889941316
+140,Sky Master,Malo,No,Suchitepéquez,40416.58,6,Hombre,6 a 10 años,1 a 10 años,Menor de Edad,mas de 10000,1.07866753477224
+141,Rueditas,Excelente,SI,San Marcos,66299.13,12,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,mas de 10000,-.613359970752841
+142,Pacuare,Excelente,SI,Sacatepéquez,27348.73,19,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,1.38630889941316
+143,Patines,Regular,No,San Marcos,23984.8,38,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,-.767180653073303
+144,Tren,Malo,No,Petén,63394.83,39,Mujer,36 a 40 años,31 a 40 años,Mayor de Edad,mas de 10000,.309564123169929
+145,Tren,Regular,No,Retalhuleu,5250.06,7,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,de 5000 a 7499,.309564123169929
+146,Motos,Regular,SI,Jutiapa,24556.02,33,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,-.921001335393765
+147,Slpash caribe,Regular,No,Chiquimula,62887.02,20,Mujer,16 a 20 años,11 a 20 años,Mayor de Edad,mas de 10000,1.69395026405408
+148,Resbaladero,Malo,No,Guatemala,1500,45,Mujer,41 a 45 años,más de 40 años,Mayor de Edad,menor a 2500,-1.22864270003469
+149,Pelotas,Bueno,No,Huehuetenango,2750,21,Mujer,21 a 25 años,21 a 30 años,Mayor de Edad,de 2500 a 4999,-1.53628406467561
+150,Montaña rusa,Regular,SI,Huehuetenango,1850,28,Hombre,26 a 30 años,21 a 30 años,Mayor de Edad,menor a 2500,.463384805490391
+151,La torre,Regular,SI,Izabal,4500,28,Mujer,26 a 30 años,21 a 30 años,Mayor de Edad,de 2500 a 4999,.771026170131314
+152,Tren,Regular,SI,Sacatepéquez,5000,31,Mujer,31 a 35 años,31 a 40 años,Mayor de Edad,de 5000 a 7499,.309564123169929
+153,Tornado,Malo,SI,Jutiapa,4500,13,Hombre,11 a 15 años,11 a 20 años,Menor de Edad,de 2500 a 4999,.617205487810852
+154,Gotcha,Malo,SI,Baja Verapaz,3500,35,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,de 2500 a 4999,-.45953928843238
+155,Bumeran,Bueno,No,Sacatepéquez,9000,20,Hombre,16 a 20 años,11 a 20 años,Mayor de Edad,de 7500 a 9999,1.2324882170927
+156,Piscina,Regular,No,Quetzaltenango,1500,39,Hombre,36 a 40 años,31 a 40 años,Mayor de Edad,menor a 2500,-1.69010474699607
+157,Piscina,Malo,SI,Jalapa,8000,44,Hombre,41 a 45 años,más de 40 años,Mayor de Edad,de 7500 a 9999,-1.69010474699607
+158,Rueda de Chicago,Bueno,No,Quiché,15000,35,Hombre,31 a 35 años,31 a 40 años,Mayor de Edad,mas de 10000,.00192275852900566
+159,Piscina,Bueno,No,Jutiapa,1500,30,Mujer,26 a 30 años,21 a 30 años,Mayor de Edad,menor a 2500,-1.69010474699607
+160,Disco,Bueno,SI,Sololá,2400,10,Mujer,6 a 10 años,1 a 10 años,Menor de Edad,menor a 2500,.924846852451776
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
+ , , , , , , , , , , , , 
