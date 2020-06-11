@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Atención</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-sm bg-light navbar-light">
+	  <ul class="nav justify-content-center">
+	    <li class="nav-item">
+	      <a class="nav-link" href="#">Atención</a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link" href="#">Proyección</a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link" href="#">Estadistico</a>
+	    </li>
+	  </ul>
+	</nav>
+		<div class="container-fluid p-4 my-2">
+			<h1 class="text-center">Sistema de colas</h1>
+			<p>Las líneas de espera generan malestar, ineficiencia, retraso y otros problemas, 
+			lo que origina un coste de tiempo y economico. Es muy importante evaluar el balance entre el aumento del nivel de servicio y el
+			tamano de las colas de espera.</p>
+			<p>Por tanto, es necesario entender la relacion entre el número de servidores en un
+			sistema (o eficacia de los mismos) y la cantidad de tiempo gastado en la cola (o
+			cantidad de clientes en la misma).
+			En sistemas de colas sencillos dichas relaciones se pueden encontrar analíticamente. En sistemas mas complejos se pueden analizar mediante simulación.
+			<p>Utilidad: Podremos dar soluciona a estas interrogantes de nuestro sistema que estamos evaluando
+			</p>
+			<ul>
+				<li>¿Qué proporción de tiempo están los servidores desocupados?</li>
+				<li>¿Cuál es el tiempo medio de espera para un cliente?</li>
+				<li>¿Es éste un tiempo razonable?</li>
+				<li>¿Se pierden clientes por tiempos de espera largos?</li>
+				<li>¿Es conveniente añadir más servidores para reducir el tiempo medio de espera?</li>
+				<li>¿Cuál es el número medio de clientes en cola?</li>
+				<li>¿Cuál es la probabilidad de que la espera sea mayor que una determinada longitud en un tiempo determinado?</li>
+			</ul>
+			</p>
+			<button type="button" class="btn btn-link" id="bt_ns">Cola con N servidores</button>
+			<button type="button" class="btn btn-link" id="bt_nsm">Cola con N servidores para calcular μ</button>
+		</div>
+	
+	<div class="container-fluid" id="nser" p-5>
+		<div class="p-5 my-3 bg-light text-black">
+			<h1 class="text-center">Cola con N servidores</h1>
+			<p>Donde podrá calcular si el sistema es capaz de trabajar con la cantidad de clientes que esta atendiendo y con la cantidad de servidores que están trabajando, con N cantidad de servidores para simular la atención hacia los clientes..</p>
+			
+		</div>
+		<form class="form-group">
+		    <label for="l" class="mb-2 mr-sm-2">Llegada de clientes:</label>
+		    <input type="text" class="form-control mb-2 mr-sm-2" id="l" placeholder="λ"><br>
+		    <label for="m" class="mb-2 mr-sm-2">Atención de clientes:</label>
+		    <input type="text" class="form-control mb-2 mr-sm-2" id="m" placeholder="μ"><br>
+		    <label for="s" class="mb-2 mr-sm-2">Cantidad de Servidores:</label>
+		    <input type="text" class="form-control mb-2 mr-sm-2" id="s" placeholder="s"><br>
+		    <button type="button" class="btn btn-primary mb-2" id="nserver">Calcular</button>
+		</form>
+	</div>
+	<br>
+	<div class="container-fluid" id="nser_m" p-5>
+		<div class="p-5 my-3 bg-light text-black"">
+			<h1 class="text-center">Cola con N servidores para calcular μ</h1>
+			<p>Donde podrá calcular los datos con la cantidad de clientes que atiende en determinado timepos, con N cantidad de servidores para simular la atención hacia los clientes.</p>
+			<p>Utilidad: Podremos dar soluciona a estas interrogantes de nuestro sistema que estamos evaluando
+			</p>
+		</div>
+		<form class="form-group">
+		    <label for="l_m" class="mb-2 mr-sm-2">Llegada de clientes:</label>
+		    <input type="text" class="form-control mb-2 mr-sm-2" id="l_m" placeholder="λ"><br>
+		    <label for="t" class="mb-2 mr-sm-2">Tiempo de llegada:</label>
+		    <input type="text" class="form-control mb-2 mr-sm-2" id="t" placeholder="t"><br>
+		    <label for="s_m" class="mb-2 mr-sm-2">Cantidad de Servidores:</label>
+		    <input type="text" class="form-control mb-2 mr-sm-2" id="s_m" placeholder="s"><br>
+		    <button type="button" class="btn btn-primary mb-2" id="nserver_m">Calcular</button>
+		</form>
+	</div>
+	<div id="result_m">
+	</div>
+	<script type="text/javascript" src="js/row.js"></script>
+
+</body>
+</html>
