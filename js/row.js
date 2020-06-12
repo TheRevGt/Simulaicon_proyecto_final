@@ -4,10 +4,12 @@ $(document).ready(function(){
     $("#bt_ns").on( "click", function() {
         $('#nser_m').hide();
         $('#nser').show();
+        document.getElementById('nser').scrollIntoView();
     });
     $("#bt_nsm").on( "click", function() {
         $('#nser').hide();
         $('#nser_m').show();
+        document.getElementById('nser_m').scrollIntoView();
     });
 });
 document.getElementById("nserver").onclick = function() {row()};
@@ -44,6 +46,7 @@ function row(){
 	}
 	cont += '</div><br>'
 	$('#result_m').append(cont)
+	document.getElementById('result_m').scrollIntoView();
 }
 
 function row_m(l,m,s,t){
@@ -102,5 +105,6 @@ function calcul(){
 			row_m(l,Math.round(m),j,ta);
 		}
 	}
+	document.getElementById('result_m').scrollIntoView();
 		
 }

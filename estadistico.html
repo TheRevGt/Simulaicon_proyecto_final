@@ -2,22 +2,32 @@
 <html>
 <head>
 	<title>Estadistico</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/jpg" href="img/ico.png">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<style type="text/css">
+		a{
+			cursor: pointer;
+		}
+	</style>
 </head>
 <body>
 
 	<nav class="navbar navbar-expand-sm bg-light navbar-light">
 	  <ul class="nav justify-content-center">
-	    <li class="nav-item">
-	      <a class="nav-link" href="#">Atención</a>
+	     <li class="nav-item">
+	      <a class="nav-link" href="index.html">Inicio</a>
 	    </li>
 	    <li class="nav-item">
-	      <a class="nav-link" href="#">Proyección</a>
+	      <a class="nav-link" href="atention.html">Atención</a>
 	    </li>
 	    <li class="nav-item">
-	      <a class="nav-link" href="#">Estadistico</a>
+	      <a class="nav-link" href="proyection.html">Proyección</a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link" href="estadistico.html">Estadistico</a>
 	    </li>
 	  </ul>
 	</nav>
@@ -28,19 +38,88 @@
 		<p class="p-3">El área de estadística necesita ciertos datos de los participantes para poder hacer predicciones a futuro.</p>
 		<li class="p-3">Es necesario las gráficas de genero, genero por edad, opinión del parque (malo, regular, bueno, excelente), cuantos lo recomendarían y cuantos no, cantidad de personas por departamentos, las edades, cantidad personas mayores edad y menores de edad, el rango de atracciones que le gustaron a las personas (se tiene un total de 23 atracciones), el rango de sueldo de los padres (que van desde el sueldo mínimo a más de 10,000), la atracción más visitada y la atracción más visitada por edad.</li>
 		<li class="p-3">También será necesario crear una tabla con los siguientes resultados: el promedio edad de los visitantes, el rango de edades y la edad máxima y mínima de los visitantes.</li>
+		<p>Ver datos</p>
+		<ol>
+			<li value="1"><a id="a1">Base de datos</a></li>
+			<li><a id="a2">Grafica de genero</a></li>
+			<li><a id="a3">Gráfica de genero por edad</a></li>
+			<li><a id="a4">Gráfica de opinión del parque</a></li> 
+			<li><a id="a5">Gráfica de recomendacion del parque</a></li>
+			<li><a id="a6">Gráfica de clientes por departamento</a></li>
+			<li><a id="a7">Gráfica de rango de sueldo de padres</a></li>
+			<li><a id="a8">Gráfica de rango de atracciones más atrayentes</a></li>
+			<li><a id="a9">Gráfica de atracción más visitada</a></li>
+			<li><a id="a10">Gráfica de atracción más visitada por rango de edad</a></li>
+			<li><a id="a11">Tabla de edades</a></li>
+		</ol>
 	</div>
 	<br>
-	<div class="container-fluid p-3">
+	<div class="container-fluid p-3" id="1">
 		<div >
 			<h1 class="text-center">Base de datos</h1>			
 		</div>
-		<embed src="docs/db_proyect.pdf"  width="100%" height="400"/>
+		<embed src="docs/db_proyect.pdf"  width="100%" height="550"/>
 	</div>
-	<div class="container-fluid p-3">
+	<div class="container-fluid p-3" id="2">
 		<div>
-			<h1 class="text-center">Grafico de cliente por genero</h1>			
+			<h1 class="text-center">Grafico de genero</h1>			
 		</div>
-		<embed src="docs/grafica de generos.doc.pdf"  width="100%" height="400"/>
+		<embed src="docs/grafica de generos.doc.pdf"  width="100%" height="550"/>
 	</div>
+	<div class="container-fluid p-3" id="3">
+		<div>
+			<h1 class="text-center">Grafico de genero por edad</h1>			
+		</div>
+		<embed src="docs/grafica_genero_edad.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="4">
+		<div>
+			<h1 class="text-center">Grafico de opinion sobre el parque</h1>			
+		</div>
+		<embed src="docs/grafica_de_calidad.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="5">
+		<div>
+			<h1 class="text-center">Grafico de recomendación</h1>			
+		</div>
+		<embed src="docs/grafica_recomendacion_por_cliente.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="6">
+		<div>
+			<h1 class="text-center">Grafico de cliente por departamento</h1>			
+		</div>
+		<embed src="docs/grafica_clientes_por_departamentos.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="7">
+		<div>
+			<h1 class="text-center">Grafico de rango de sueldo </h1>			
+		</div>
+		<embed src="docs/grafica_rango_de_sueldos.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="8">
+		<div>
+			<h1 class="text-center">Grafico de rango de atraciones más atrayentes </h1>			
+		</div>
+		<embed src="docs/grafica_de_atraccines.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="9">
+		<div>
+			<h1 class="text-center">Grafico de atraccion mas visitada </h1>			
+		</div>
+		<embed src="docs/grafica_atraccion_mas_visitada.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="10">
+		<div>
+			<h1 class="text-center">Grafico de atraccion mas visitada por rango de edad</h1>			
+		</div>
+		<embed src="docs/grafica_atracccion_visita_por_edad.pdf"  width="100%" height="550"/>
+	</div>
+	<div class="container-fluid p-3" id="11">
+		<div>
+			<h1 class="text-center">Tabla de edades</h1>			
+		</div>
+		<embed src="docs/tabla de edad.pdf"  width="100%" height="550"/>
+	</div>
+	<script type="text/javascript" src="js/estadistico.js"></script>
 </body>
 </html>

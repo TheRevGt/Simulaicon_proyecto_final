@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Atención</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/jpg" href="img/ico.png">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<style type="text/css">
+		a{
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<nav class="navbar navbar-expand-sm bg-light navbar-light">
+	  <ul class="nav justify-content-center">
+	     <li class="nav-item">
+	      <a class="nav-link" href="index.html">Inicio</a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link" href="atention.html">Atención</a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link" href="proyection.html">Proyección</a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link" href="estadistico.html">Estadistico</a>
+	    </li>
+	  </ul>
+	</nav>
+		<div class="container-fluid p-4 my-2">
+			<h1 class="text-center">Proyección de datos de clientes</h1>
+			<p><b>Área de marketing:</b> Para esta ocasión se ha decido invitar 40 personas más de sobra, con el fin de se alcance la cifra de 160 aunque algunos cancelen o no lleguen, el área de marketing y administrativa desea saber la probabilidad que hay de que lleguen esas 200 personas, la probabilidad de que lleguen las 160 exactas, la probabilidad de que lleguen menos de 160 y la probabilidad de que lleguen más de 160 y menos de 200.</p>
+			<ol>
+				<li value="1"><a id="a1">200 personas</a></li>
+				<li><a id="a2">160 personas</a></li>
+				<li><a id="a3">Menos de 160</a></li>
+				<li><a id="a4">Más de 160 y menos de 200</a></li> 
+			</ol>
+			<p><b>Área de entretenimiento:</b> En el área de entretenimiento ha proporcionado un enlace para poder pedir su kit especial de apertura. Faltan exactamente 2 meses para esta apertura especial, y las inscripciones para el kit se están dando 25 cada 10 días, sin embargo, ellos solo tienen un mes para pedir los kits, es por eso por lo que le solicitan calcular cuál es la probabilidad de que en esos 2 meses se inscriban 100 personas, 160 personas o las 200 personas.</p>
+			</p>
+			<ol>
+				<li value="1"><a id="a5">100 personas</a></li>
+				<li><a id="a6">160 personas</a></li>
+				<li><a id="a7">200 personas</a></li>
+			</ol>
+		</div>
+	
+	<div class="container-fluid">
+		<div class="p-5 my-3 text-black">
+			<h2 class="text-center">Área de marketing</h2>
+			<div class="container-fluid p-3" id="1">
+				<div>
+					<h3 class="text-center">Llegada de las 200 personas</h3>			
+				</div>
+				<img src="img/poisson200.png" width="100%">
+			</div>
+			<div class="container-fluid p-3" id="2">
+				<div>
+					<h3 class="text-center">Llegada de las 160 personas</h3>			
+				</div>
+				<img src="img/poisson160.png" width="100%">
+			</div>
+			<div class="container-fluid p-3" id="3">
+				<div>
+					<h3 class="text-center">Llegada de menos 160 personas</h3>			
+				</div>
+				<img src="img/poissonm160.png" width="100%">
+			</div>
+			<div class="container-fluid p-3" id="4">
+				<div>
+					<h3 class="text-center">Llegada de más 160 menos de 200 personas</h3>			
+				</div>
+				<img src="img/poissonm200.png" width="100%">
+			</div>		
+		</div>
+	</div>
+	<br>
+	<div class="container-fluid" id="" p-5>
+		<div class="p-5 my-3 bg-light text-black">
+			<h2 class="text-center">Área de entretenimiento</h2>
+			<div class="container-fluid p-3" id="5">
+				<div>
+					<h3 class="text-center">Llegada 100 personas</h3>			
+				</div>
+				<img src="img/binomial100.png" width="100%">
+			</div>
+			<div class="container-fluid p-3" id="6">
+				<div>
+					<h3 class="text-center">Llegada de 160 personas</h3>			
+				</div>
+				<img src="img/binomial160.png" width="100%">
+			</div>
+			<div class="container-fluid p-3" id="7">
+				<div>
+					<h3 class="text-center">Llegada de 200 personas</h3>			
+				</div>
+				<img src="img/binomial200.png" width="100%">
+			</div>
+		</div>
+	</div>
+	<div id="result_m">
+	</div>
+	<script type="text/javascript" src="js/estadistico.js"></script>
+</body>
+</html>
